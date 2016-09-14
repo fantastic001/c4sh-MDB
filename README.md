@@ -14,19 +14,23 @@ Every ticket has a:
 How to use?
 ---------------
 
+To add new ticket type:
+
+  add-type ticketname 
+
 To add a ticket just type: 
 
-  register ticket typename
+  register typename
 
 where typename is type 
 
 to list tickets
 
-  list tickets 
+  list-tickets 
 
 to list types 
 
-  list types 
+  list-types 
 
 to verify ticket 
 
